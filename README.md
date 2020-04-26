@@ -1,2 +1,3 @@
-# EFCore-Include-Filtering-Benchmark
-EFCore Include Filtering Benchmark
+# EFCore Include Filtering Benchmark
+
+![Benchmark](Benchmark.png)
